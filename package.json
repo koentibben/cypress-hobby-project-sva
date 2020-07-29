@@ -1,0 +1,21 @@
+{
+  "name": "cypress-hobby-project-sva",
+  "version": "1.0.0",
+  "description": "This is a hobby project using Cypress.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.11.0",
+    "lodash": "^4.17.19",
+    "moment-timezone": "^0.5.31"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koentibben/cypress-hobby-project-sva.git"
+  },
+  "author": "Koen Tibben",
+  "license": "ISC"
+}
